@@ -15,16 +15,16 @@ body{
 	background-color: var(--main-bg-color);
 }
 
-.parent p:first-child{
+article p:first-child{
 	background-color: var(--para-bg-color);
 	color: var(--list-white);
 }
 
-.parent p:nth-child(2){
+article p:nth-child(2){
 	
 }
 
-.parent p:last-child{
+article p:last-child{
    color: var(--para-text-color);
 }
 .item li{
